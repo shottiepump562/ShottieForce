@@ -1,4 +1,9 @@
-html, body{
-    margin: 0;
-    background-color: rgb(64, 3, 3);
-} 
+html,
+body {
+  margin: 0;
+  background-color: rgb(64, 3, 3);
+}
+
+.topnav {
+  display: flex;
+}
